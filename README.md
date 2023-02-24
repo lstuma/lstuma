@@ -3,7 +3,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
 <h1 style="font-family:'Press Start 2P', cursive;">
-  Hello World
+  <img src="https://github.com/lstuma/lstuma/blob/main/helloworld.gif"/>
 </h1>
 
 <!--

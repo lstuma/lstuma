@@ -1,4 +1,5 @@
 <img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/hello_world.gif"/>
+<img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.svg"/>
 
 <!--
 **lstuma/lstuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

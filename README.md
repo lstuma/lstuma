@@ -1,4 +1,5 @@
-<img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/hello_world.gif"/>
+<a href="https://github.com/lstuma"><img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/hello_world.gif"/></a>
+
 <a href="https://teamsmiley.org"><img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png"/></a>
 
 <!--

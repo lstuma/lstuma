@@ -1,8 +1,6 @@
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-<a href="https://github.com/lstuma"><img style="width: 20em; justify-self: left; display: flex; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/hello_world.gif"/></a>
+<a href="https://github.com/lstuma"><img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/hello_world.gif"/></a>
 
-<a href="https://teamsmiley.org"><img style="width: 20em; justify-self: right; display: flex; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png"/></a>
-</div>
+<a href="https://teamsmiley.org"><img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png"/></a>
 <!--
 **lstuma/lstuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

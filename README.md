@@ -14,7 +14,3 @@ I'm a student from Germany interested in programming, developing and ethical hac
 - [Devpost](https://devpost.com/lstuma)
 - [TeamSmiley](https://teamsmiley.org)
 - [g.lstuma@gmail.com](mailto:g.lstuma@gmail.com)
-
-
-
-<a href="https://github.com/lstuma"><img style="width: 20em; height:auto;" src="https://github.com/lstuma/lstuma/blob/main/hello_world.gif"/></a>

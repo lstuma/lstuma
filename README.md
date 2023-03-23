@@ -14,3 +14,5 @@ I'm a student from Germany interested in programming, developing and ethical hac
 - [Devpost](https://devpost.com/lstuma)
 - [TeamSmiley](https://teamsmiley.org)
 - [g.lstuma@gmail.com](mailto:g.lstuma@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lstuma&hide_progress=true,&theme=tokyonight&hide=shell,html,css&langs_count=5)]

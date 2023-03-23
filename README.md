@@ -16,5 +16,5 @@ I'm a student from Germany interested in programming, developing and ethical hac
 - [g.lstuma@gmail.com](mailto:g.lstuma@gmail.com)
 
 
-<img align="left" style="display: inline-flex;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lstuma&theme=tokyonight&hide=shell,html,css&langs_count=5&bg_color=00000000&layout=compact"/>
+<img align="left" style="display: inline-flex;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lstuma&layout=compact&theme=tokyonight&hide=shell,html,css&langs_count=5&bg_color=00000000"/>
 <img align="left" style="display: inline-flex;" src="https://github-readme-stats.vercel.app/api?username=lstuma&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&bg_color=00000000"/>

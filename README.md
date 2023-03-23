@@ -15,4 +15,6 @@ I'm a student from Germany interested in programming, developing and ethical hac
 - [TeamSmiley](https://teamsmiley.org)
 - [g.lstuma@gmail.com](mailto:g.lstuma@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lstuma&hide_progress=true,&theme=tokyonight&hide=shell,html,css&langs_count=5)]
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lstuma&hide_progress=true,&theme=tokyonight&hide=shell,html,css&langs_count=5"/>
+<img align="center" https://github-readme-stats.vercel.app/api?username=lstuma&show_icons=true&count_private=true&theme=tokyonight/>

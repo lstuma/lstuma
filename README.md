@@ -8,6 +8,7 @@ I'm a student from Germany interested in programming, developing and ethical hac
 
 ## 🔭 I'm currently working on
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)
+- [Simple Brainfuck Compiler](https://github.com/lstuma/brainfuck_compiler)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/lukas-stockmann-640405239)

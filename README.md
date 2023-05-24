@@ -3,6 +3,7 @@
 I'm a student from Germany interested in programming, developing and ethical hacking!
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png" alt="TeamSmiley" width="33%">](https://teamsmiley.org)
+[<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="33%">](https://stockmann.dev)
 
 ## 🔭 I'm currently working on
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)

@@ -3,7 +3,8 @@
 I'm a student from Germany interested in programming, developing and ethical hacking!
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
-[<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="auto" height="60em" margin="0 0 0 60em">](https://stockmann.dev)
+<spanv style="margin=0 0 0 60em"></span>
+[<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="auto" height="60em">](https://stockmann.dev)
 
 ## 🔭 I'm currently working on
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)

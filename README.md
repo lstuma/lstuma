@@ -3,7 +3,7 @@
 I'm a student from Germany interested in programming, developing and ethical hacking!
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
-<spanv style="margin=0 0 0 60em"></span>
+<spanv style="margin=0 0 0 60em">a</span>
 [<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="auto" height="60em">](https://stockmann.dev)
 
 ## 🔭 I'm currently working on

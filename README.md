@@ -3,10 +3,11 @@
 I'm a student from Germany interested in programming, developing and ethical hacking!
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
-<span padding="0 0 0 60em">      </span>
+
+
 [<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="auto" height="60em">](https://stockmann.dev)
 
-## 🔭 I'm currently working on
+  ## 🔭 I'm currently working on
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)
 - [Simple Brainfuck Compiler](https://github.com/lstuma/brainfuck_compiler)
 

@@ -1,7 +1,8 @@
-# Hey there!
+
+# Hey there! [<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" alt="404" width="auto" height="auto">]()[<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="auto" height="40em">](https://stockmann.dev)
 I'm a student from Germany interested in programming, developing and ethical hacking!
 
-[<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png?raw=true" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" alt="404" width="auto" height="30em">]()[<img src="https://stockmann.dev/img/icon.svg" alt="stockmann.dev" width="auto" height="60em">](https://stockmann.dev)
+[<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png?raw=true" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
 
   ## 🔭 I'm currently working on
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)

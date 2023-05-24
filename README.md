@@ -1,5 +1,5 @@
 <style>
-  #TeamSmiley { padding-right: 10em;  }
+  #user-content-teamsmiley { padding-right: 10em;  }
 </style>
 
 # Hey there!

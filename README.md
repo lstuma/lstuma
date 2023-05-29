@@ -1,6 +1,6 @@
 
 # Hey there!
-I'm a student from Germany interested in programming, developing and ethical hacking!
+I'm a student from Germany interested in programming, machine learning and ethical hacking!
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png?raw=true" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
 

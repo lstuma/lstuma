@@ -14,7 +14,7 @@ I'm a student from Germany interested in programming, machine learning and ethic
  - [TeamSmiley](https://teamsmiley.org)
  - [g.lstuma@gmail.com](mailto:g.lstuma@gmail.com)
 
- ## 🌐 My website
+ ## 🌐 My website & blog
  
  - [stockmann.dev](https://stockmann.dev)
 

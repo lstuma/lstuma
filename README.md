@@ -12,7 +12,7 @@ I'm a student from Germany interested in programming, machine learning and ethic
  - [LinkedIn](https://www.linkedin.com/in/lukas-stockmann-640405239)
  - [Devpost](https://devpost.com/lstuma)
  - [TeamSmiley](https://teamsmiley.org)
- - [g.lstuma@gmail.com](mailto:g.lstuma@gmail.com)
+ - [lstuma@proton.me](mailto:lstuma@proton.me)
 
  ## 🌐 My website & blog
  

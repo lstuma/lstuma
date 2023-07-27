@@ -6,7 +6,7 @@ I'm a student from Germany interested in programming, machine learning and ethic
 
   ## 🔭 I'm currently working on
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)
-- [Simple Brainfuck Compiler](https://github.com/lstuma/brainfuck_compiler)
+- [Simulation of VdW interactions between argon atoms](https://github.com/lstuma/molecular_simulation)
 
 ## 📫 How to reach me
  - [LinkedIn](https://www.linkedin.com/in/lukas-stockmann-640405239)

@@ -3,7 +3,8 @@
 
 [<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png?raw=true" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
 
-  ## 🔭 I'm currently working on
+  ## 🔭 Current Projects
+- OSCP (PEN200)
 - [YOLO implementation in Python and C](https://github.com/lstuma/YOLO)
 - [Simulation of VdW interactions between argon atoms](https://github.com/lstuma/molecular_simulation)
 

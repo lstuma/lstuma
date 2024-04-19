@@ -15,7 +15,7 @@
 
  ## 🌐 My website & blog
  
- - [stockmann.dev](https://stockmann.dev)
+ - [lstuma.dev](https://lstuma.dev)
 
 ###
 <a href="https://github.com/lstuma">

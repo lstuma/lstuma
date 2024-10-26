@@ -3,7 +3,7 @@
 
 ## 🌐 My website & blog
  
- - [lstuma.dev](https://lstuma.dev)
+ - [blog.lstuma.dev](https://blog.lstuma.dev)
 
 ###
 <a href="https://github.com/lstuma">

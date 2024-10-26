@@ -1,19 +1,7 @@
 
 # Hey there!
 
-[<img src="https://github.com/lstuma/lstuma/blob/main/teamsmiley.png?raw=true" alt="TeamSmiley" width="auto" height="50em">](https://teamsmiley.org)
-
-  ## 🔭 Projects
-- OSCP (PEN200)
-- PigeonPost (python web framework)
-
-## 📫 How to reach me
- - [LinkedIn](https://www.linkedin.com/in/lukas-stockmann-640405239)
- - [Devpost](https://devpost.com/lstuma)
- - [TeamSmiley](https://teamsmiley.org)
- - [lstuma@proton.me](mailto:lstuma@proton.me)
-
- ## 🌐 My website & blog
+## 🌐 My website & blog
  
  - [lstuma.dev](https://lstuma.dev)
 

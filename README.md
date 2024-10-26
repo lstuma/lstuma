@@ -1,5 +1,6 @@
 
-# Hey there!
+# Hey there! 👋
+Welcome to my profile :)
 
 ## 🌐 My website & blog
  

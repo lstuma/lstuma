@@ -2,9 +2,7 @@
 # Hey there! 👋
 Welcome to my profile :)
 
-## 🌐 My website & blog
- 
- - [blog.lstuma.dev](https://pwned.place/blog)
+Cool blog under [pwned.place](https://pwned.place/blog)
 
 ###
 <a href="https://github.com/lstuma">

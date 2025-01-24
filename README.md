@@ -4,7 +4,7 @@ Welcome to my profile :)
 
 ## 🌐 My website & blog
  
- - [blog.lstuma.dev](https://blog.lstuma.dev)
+ - [blog.lstuma.dev](https://pwned.place/blog)
 
 ###
 <a href="https://github.com/lstuma">
